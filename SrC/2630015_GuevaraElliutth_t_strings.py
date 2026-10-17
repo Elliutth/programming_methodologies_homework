@@ -139,7 +139,7 @@ else:
 #    Input: "ana.gmail.com"
 #    Expected: "Valid email: false"
 
-email_text = "elliutthisaac@gmail.com"
+email_text = input("Email address:") #"elliutthisaac@gmail.com"
 
 email_text = email_text.strip()
 
